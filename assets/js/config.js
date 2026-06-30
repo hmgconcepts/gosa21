@@ -16,8 +16,8 @@ const BUILDER_PRODUCT = 'School Connect FINAL (Cumulative Edition)';
 // 2. Run database/schema.sql in the SQL Editor
 // 3. Paste your URL and anon key below
 // 4. Redeploy
-window.SUPABASE_URL = '';   // 'https://abc.supabase.co'
-window.SUPABASE_KEY = '';   // 'eyJ...your-anon-key...'
+window.SUPABASE_URL = 'https://dgarrlzbmscpgtefdupm.supabase.co';   // 'https://abc.supabase.co'
+window.SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRnYXJybHpibXNjcGd0ZWZkdXBtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIzMzc0MTYsImV4cCI6MjA5NzkxMzQxNn0.7CNB3KcQD3NHr6ENDGb7gRX_ld_xjgpQeL_YVuLRW_A';   // 'eyJ...your-anon-key...'
 
 // Optional VAPID public key for Web Push (generate with `npx web-push generate-vapid-keys`)
 // window.SC.VAPID_PUBLIC = 'BAd...';
